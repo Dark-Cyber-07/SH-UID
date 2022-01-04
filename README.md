@@ -46,7 +46,7 @@ git clone https://github.com/Dark-Cyber-07/SH-UID
 ls && cd SH-UID && ls
 python2 sh-uid.py
 ```
-USERNAME:SHANTO HASAN
+USERNAME: SHANTO HASAN
 PASSWORD: UID CLONER
 
 
