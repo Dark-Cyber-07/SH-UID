@@ -27,7 +27,7 @@ pkg install pip2
 pip2 install requests
 pip2 install mechanize
 git clone https://github.com/Dark-Cyber-07/SH-UID
-Note: (This Tools Are Paid, So You Need Permission To Use SHANTI SH-UID Tools )
+Note: (This Tools Are Paid, So You Need Permission To Use SHANTO SH-UID Tools )
 
 
 
@@ -43,7 +43,7 @@ apt install pip2
 pip2 install requests
 pip2 install mechanize
 git clone https://github.com/Dark-Cyber-07/SH-UID
-Note: (This Tools Are Paid, So You Need Permission To Use SHANTI SH-UID Tools )
+Note: (This Tools Are Paid, So You Need Permission To Use SHANTO SH-UID Tools )
 
 
 
@@ -54,7 +54,7 @@ Note: (This Tools Are Paid, So You Need Permission To Use SHANTI SH-UID Tools )
 ls && cd SH-UID && ls
 python2 sh-uid.py
 ```
-Note: (This Tools Are Paid, So You Need Permission To Use SHANTI SH-UID Tools )
+Note: (This Tools Are Paid, So You Need Permission To Use SHANTO SH-UID Tools )
 
 
 
