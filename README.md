@@ -52,6 +52,7 @@ Note: (This Tools Are Paid, So You Need Permission To Use SHANTO SH-UID Tools )
 ## Tools Run :
 ```
 ls && cd SH-UID && ls
+python sh-pro.py
 python2 sh-uid.py
 ```
 Note: (This Tools Are Paid, So You Need Permission To Use SHANTO SH-UID Tools )
